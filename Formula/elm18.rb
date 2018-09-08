@@ -1,6 +1,6 @@
 require "language/haskell"
 
-class Elm < Formula
+class Elm18 < Formula
   include Language::Haskell::Cabal
 
   desc "Functional programming language for building browser-based GUIs"
